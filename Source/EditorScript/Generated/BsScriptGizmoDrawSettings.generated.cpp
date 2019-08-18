@@ -1,5 +1,5 @@
 //********************************** Banshee Engine (www.banshee3d.com) **************************************************//
-//************** Copyright (c) 2016-2019 Marko Pintera (marko.pintera@gmail.com). All rights reserved. *******************//
+//************** Copyright (c) 2016-2019 Jonathan Harrison (harrison.j@banshee3d.com). All rights reserved. *******************//
 #include "BsScriptGizmoDrawSettings.generated.h"
 #include "BsMonoMethod.h"
 #include "BsMonoClass.h"

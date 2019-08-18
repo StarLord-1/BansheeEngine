@@ -1,5 +1,5 @@
 //********************************** Banshee Engine (www.banshee3d.com) **************************************************//
-//**************** Copyright (c) 2018 Marko Pintera (marko.pintera@gmail.com). All rights reserved. **********************//
+//**************** Copyright (c) 2018 Jonathan Harrison (harrison.j@banshee3d.com). All rights reserved. **********************//
 #include "GUI/BsGUIColorDistributionField.h"
 #include "GUI/BsGUILayoutY.h"
 #include "GUI/BsGUILabel.h"

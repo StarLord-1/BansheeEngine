@@ -1,5 +1,5 @@
 //********************************** Banshee Engine (www.banshee3d.com) **************************************************//
-//**************** Copyright (c) 2016 Marko Pintera (marko.pintera@gmail.com). All rights reserved. **********************//
+//**************** Copyright (c) 2016 Jonathan Harrison (harrison.j@banshee3d.com). All rights reserved. **********************//
 #include "EditorWindow/BsModalWindow.h"
 #include "EditorWindow/BsEditorWindowManager.h"
 #include "RenderAPI/BsRenderWindow.h"

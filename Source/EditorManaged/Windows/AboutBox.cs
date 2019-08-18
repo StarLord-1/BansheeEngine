@@ -1,5 +1,5 @@
 ﻿//********************************** Banshee Engine (www.banshee3d.com) **************************************************//
-//**************** Copyright (c) 2016 Marko Pintera (marko.pintera@gmail.com). All rights reserved. **********************//
+//**************** Copyright (c) 2016 Jonathan Harrison (harrison.j@banshee3d.com). All rights reserved. **********************//
 using bs;
 
 namespace bs.Editor
@@ -43,7 +43,7 @@ namespace bs.Editor
             GUILabel bsfVersion = new GUILabel(new LocEdString("Powered by bs::framework " + FrameworkVersion.GetFullVersionString()), EditorStyles.LabelCentered);
             GUILabel license = new GUILabel(new LocEdString(
                 "This program is licensed under the GNU Lesser General Public License V3 or later"), EditorStyles.LabelCentered);
-            GUILabel copyright = new GUILabel(new LocEdString("Copyright (C) 2014 - " + EngineVersion.GetCurrentReleaseYearNumber() + " Marko Pintera and contributors. All rights reserved."), 
+            GUILabel copyright = new GUILabel(new LocEdString("Copyright (C) 2014 - " + EngineVersion.GetCurrentReleaseYearNumber() + " Jonathan Harrison and contributors. All rights reserved."), 
                 EditorStyles.LabelCentered);
 
             GUILabel editorContributorsLabel = new GUILabel(new LocEdString("Editor contributors"), EditorStyles.TitleLabel);
@@ -52,7 +52,7 @@ namespace bs.Editor
             GUILabel frameworkLabel = new GUILabel(new LocEdString("Framework"), EditorStyles.TitleLabel);
 
 
-            GUILabel authorLabel = new GUILabel(new LocEdString("Banshee was created, and is being actively developed by Marko Pintera."));
+            GUILabel authorLabel = new GUILabel(new LocEdString("Banshee was created, and is being actively developed by Jonathan Harrison."));
             GUILabel emailTitle = new GUILabel(new LocEdString("E-mail"), GUIOption.FixedWidth(150));
             emailLabel = new GUITextBox();
             GUILabel linkedInTitle = new GUILabel(new LocEdString("LinkedIn"), GUIOption.FixedWidth(150));
@@ -237,7 +237,7 @@ namespace bs.Editor
             socialLayout.Active = false;
             socialFoldout.OnToggled += x => socialLayout.Active = x;
 
-            emailLabel.Text = "marko.pintera@gmail.com";
+            emailLabel.Text = "harrison.j@banshee3d.com";
             linkedInBtn.OnClick += () => { System.Diagnostics.Process.Start("https://www.linkedin.com/in/markopintera"); };
             patreonBtn.OnClick += () => { System.Diagnostics.Process.Start("https://www.patreon.com/bsf"); };
             paypalBtn.OnClick += () => { System.Diagnostics.Process.Start("https://www.paypal.me/MarkoPintera/10"); };
@@ -281,7 +281,7 @@ namespace bs.Editor
 
         private void OnEditorUpdate()
         {
-            emailLabel.Text = "marko.pintera@gmail.com";
+            emailLabel.Text = "harrison.j@banshee3d.com";
         }
     }
 

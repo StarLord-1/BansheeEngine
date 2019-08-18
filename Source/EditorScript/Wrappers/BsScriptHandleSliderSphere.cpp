@@ -1,5 +1,5 @@
 //********************************** Banshee Engine (www.banshee3d.com) **************************************************//
-//**************** Copyright (c) 2017 Marko Pintera (marko.pintera@gmail.com). All rights reserved. **********************//
+//**************** Copyright (c) 2017 Jonathan Harrison (harrison.j@banshee3d.com). All rights reserved. **********************//
 #include "Wrappers/BsScriptHandleSliderSphere.h"
 #include "BsScriptMeta.h"
 #include "BsMonoField.h"

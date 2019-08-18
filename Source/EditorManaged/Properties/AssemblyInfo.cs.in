@@ -7,9 +7,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Banshee Editor managed library")]
 [assembly: AssemblyDescription("Implements managed parts of Banshee Editor")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Marko Pintera and contributors")]
+[assembly: AssemblyCompany("Jonathan Harrison and contributors")]
 [assembly: AssemblyProduct("Banshee Engine")]
-[assembly: AssemblyCopyright("Copyright (c) 2014-@BS_B3D_CURRENT_RELEASE_YEAR@ Marko Pintera and contributors")]
+[assembly: AssemblyCopyright("Copyright (c) 2014-@BS_B3D_CURRENT_RELEASE_YEAR@ Jonathan Harrison and contributors")]
 [assembly: AssemblyTrademark("Released under the under the GNU Lesser General Public License V3 or (at your option) any later version")]
 [assembly: AssemblyCulture("")]
 

@@ -1,6 +1,6 @@
 						Banshee Engine
 				Modern game development toolkit
-				Copyright (C) 2016 Marko Pintera
+				Copyright (C) 2016 Jonathan Harrison
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU Lesser General Public License as published 

@@ -1,5 +1,5 @@
 //********************************** Banshee Engine (www.banshee3d.com) **************************************************//
-//**************** Copyright (c) 2019 Marko Pintera (marko.pintera@gmail.com). All rights reserved. **********************//
+//**************** Copyright (c) 2019 Jonathan Harrison (harrison.j@banshee3d.com). All rights reserved. **********************//
 #pragma once
 
 #include "BsEditorPrerequisites.h"
